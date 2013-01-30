@@ -1,0 +1,14 @@
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\bin\Debug\myFirstGitProject.exe
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\bin\Debug\myFirstGitProject.pdb
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.exe
+D:\My Documents\Visual Studio 2008\Projects\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.pdb
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.exe
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.pdb
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\bin\Debug\myFirstGitProject.exe
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\bin\Debug\myFirstGitProject.pdb
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.Properties.Resources.resources
+D:\My Documents\GitHub\tomashgitrepo1\myFirstGitProject\myFirstGitProject\obj\Debug\myFirstGitProject.csproj.GenerateResource.Cache
